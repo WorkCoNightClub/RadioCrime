@@ -12,10 +12,6 @@
         "source": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
     },
     {
-        "merged": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat",
-        "source": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
-    },
-    {
         "merged": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat",
         "source": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
     },
@@ -42,10 +38,6 @@
     {
         "merged": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat",
         "source": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
-    },
-    {
-        "merged": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat",
-        "source": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
     },
     {
         "merged": "/home/massimo/EvothingsStudio/MyApps/RadioCrime/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
