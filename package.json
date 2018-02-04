@@ -1,0 +1,12 @@
+{
+    "name": "com.github.workconightclub.radiocrime",
+    "displayName": "RadioCrime",
+    "version": "0.0.1",
+    "description": "An audio detective story created for GGJ 2018 in Rome (Italy)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "WorkCoNightClub",
+    "license": "GPL-3.0"
+}
