@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.github.workconightclub.radiocrime"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "com.github.workconightclub.radiocrime"
     }
   },
   "dependent_plugins": {}
